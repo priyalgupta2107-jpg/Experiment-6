@@ -42,8 +42,8 @@
 1.Start.  
 2.Input year.  
 3.If (year divisible by 4 AND not divisible by 100) OR (year divisible by 400) then print "Leap year".  
-5.Else print "Not a leap year".   
-6.Stop.  
+4..Else print "Not a leap year".   
+5.Stop.  
 ## Algorithm – Q6: Calculate gross salary
 1.Start.  
 2.Input basic salary.  
