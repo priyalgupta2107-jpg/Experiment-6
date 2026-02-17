@@ -7,7 +7,14 @@
 - Variables are used to store and process input data.  
 - The if, elif, and else statements are used to check different conditions.  
 - Relational operators such as ==, >, <, >=, and <= are used for comparison.
-- Logical operators such as and, or, and not are used to combine multiple conditions in decision making.  
+- Logical operators such as and, or, and not are used to combine multiple conditions in decision making.
+# Syntax: if condition1:
+    statement(s)
+elif condition2:
+    statement(s)
+else:
+    statement(s)
+  
 ## Algorithm – Q1: Check whether a number is positive, negative, or zero
 1.Start.  
 2.Input a number number.  
